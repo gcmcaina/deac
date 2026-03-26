@@ -1,0 +1,22 @@
+{
+  "name": "Monitor CETEL — GCM",
+  "short_name": "DEAC Monitor",
+  "description": "Monitor de Vagas DEAC — Guarda Civil Metropolitana",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0f2f7",
+  "theme_color": "#2563eb",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/logo%20gcm.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/logo%20gcm.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
