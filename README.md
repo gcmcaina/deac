@@ -87,4 +87,3 @@ if (request.method === "OPTIONS") {
 ```
 
 E em cada `return new Response(...)`, adicione os corsHeaders.
-# deac
